@@ -1,6 +1,6 @@
 ## In Search of _"Ringside Regular SSm", Verdana, sans-serif'_
 ### Problem
-`"Ringside Regular SSm", Verdana, sans-serif'` is a font family Inquirer.com no longer supports. Identify all elements on the Inquirer.com homepage that has a computed style for font-family of `"Ringside Regular SSm", Verdana, sans-serif'`
+`"Ringside Regular SSm", Verdana, sans-serif'` is a font family https://www.inquirer.com no longer supports. Identify all elements on the Inquirer.com homepage that has a computed style for font-family of `"Ringside Regular SSm", Verdana, sans-serif'`
 
 ### Goal
 Identify elements on Inquirer homepage that have computed font-family of `"Ringside Regular SSm", Verdana, sans-serif'`
