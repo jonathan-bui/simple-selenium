@@ -13,9 +13,9 @@ I decided to look into Selenium WebDriver which, after making sense of the frust
 Using WebDriver I was able to perform 2 main operations for finding instances of `"Ringside Regular SSm", Verdana, sans-serif'`
 1. Expand all expandable components to reveal any hidden elements that might have that family-font to the DOM
 2. Extract the computed style of every element that exists on the DOM
--- Keep track of occurences of all computed font-family
--- Retrieve class names of elements that have font-family of `"Ringside Regular SSm", Verdana, sans-serif'`
--- **Experimental**: take a screenshot of every element that has font-family `"Ringside Regular SSm", Verdana, sans-serif'`
+- Keep track of occurences of all computed font-family
+- Retrieve class names of elements that have font-family of `"Ringside Regular SSm", Verdana, sans-serif'`
+- **Experimental**: take a screenshot of every element that has font-family `"Ringside Regular SSm", Verdana, sans-serif'`
 
 ### Installation
 Dillinger requires Node.js v10+ to run.
