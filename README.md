@@ -18,8 +18,8 @@ Using WebDriver I was able to perform 2 main operations for finding instances of
 - **Experimental**: take a screenshot of every element that has font-family `"Ringside Regular SSm", Verdana, sans-serif'`
 
 ### Installation
-Dillinger requires Node.js v10+ to run.
-Dillinger requires Chrome Browser
+Simple Selenium requires Node.js v10+ to run.
+Simple Selenium requires Chrome Browser
 
 Installation:
 `npm install`  
